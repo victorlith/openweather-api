@@ -29,8 +29,7 @@ static async Task Main()
                 string responseBody = await response.Content.ReadAsStringAsync();
 
                 WeatherData? weather = JsonConvert.DeserializeObject<WeatherData>(responseBody);
-          
-                //Console.WriteLine("Os dados meteorologicos de sua cidade: ");
+                
                 Console.WriteLine("Cidade: " + weather?.Name);
                 Console.WriteLine("Temperatura: " + (weather.Main.Temp - 273).ToString("f0") + " C°");
                 

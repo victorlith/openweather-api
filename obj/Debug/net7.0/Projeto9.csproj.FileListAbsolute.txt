@@ -1,0 +1,17 @@
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\bin\Debug\net7.0\Projeto9.exe
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\bin\Debug\net7.0\Projeto9.deps.json
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\bin\Debug\net7.0\Projeto9.runtimeconfig.json
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\bin\Debug\net7.0\Projeto9.dll
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\bin\Debug\net7.0\Projeto9.pdb
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.csproj.AssemblyReference.cache
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.AssemblyInfoInputs.cache
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.AssemblyInfo.cs
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.dll
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\refint\Projeto9.dll
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.pdb
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.genruntimeconfig.cache
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\ref\Projeto9.dll
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Meus Projetos\Projetos Visual Studio\VS Code\Projeto9\obj\Debug\net7.0\Projeto9.csproj.CopyComplete

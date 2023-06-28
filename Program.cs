@@ -16,6 +16,8 @@ static async Task Main()
 
     string apiURL = $"https://api.openweathermap.org/data/2.5/weather?q={cityName}&appid={apiKey}";
 
+    Console.Clear();
+
     using(HttpClient client = new HttpClient())
     {
         try
@@ -27,10 +29,10 @@ static async Task Main()
                 string responseBody = await response.Content.ReadAsStringAsync();
 
                 WeatherData? weather = JsonConvert.DeserializeObject<WeatherData>(responseBody);
-
+          
+                //Console.WriteLine("Os dados meteorologicos de sua cidade: ");
                 Console.WriteLine("Cidade: " + weather?.Name);
-                Console.WriteLine("Temperatura: " + weather?.Main.Temp);
-                
+                Console.WriteLine("Temperatura: " + (weather.Main.Temp - 273).ToString("f0") + " C°");
                 
             }
             else
@@ -49,6 +51,7 @@ public class WeatherData
 {
     public string Name {get; set;}
     public MainData Main {get; set;}
+    
 }
 
 public class MainData
